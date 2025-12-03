@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4xbHorCCdKk0mle6sIovCnSog7bYcps9dUDNM3s96CLXTHW87o8LT7LCM67lngpX2+Gsnu3puciq2cG33tQILA==",
+  "success": true,
+  "projectFilePath": "D:\\ISSLocator\\ISS Locator\\ISS Locator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rammi.DESKTOP-D4C83OG\\.nuget\\packages\\system.io.pipelines\\10.0.0\\system.io.pipelines.10.0.0.nupkg.sha512",
+    "C:\\Users\\rammi.DESKTOP-D4C83OG\\.nuget\\packages\\system.net.http.json\\10.0.0\\system.net.http.json.10.0.0.nupkg.sha512",
+    "C:\\Users\\rammi.DESKTOP-D4C83OG\\.nuget\\packages\\system.text.encodings.web\\10.0.0\\system.text.encodings.web.10.0.0.nupkg.sha512",
+    "C:\\Users\\rammi.DESKTOP-D4C83OG\\.nuget\\packages\\system.text.json\\10.0.0\\system.text.json.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

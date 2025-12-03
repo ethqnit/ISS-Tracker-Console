@@ -1,0 +1,21 @@
+D:\ISSLocator\ISS Locator\bin\Debug\net8.0\ISS Locator.exe
+D:\ISSLocator\ISS Locator\bin\Debug\net8.0\ISS Locator.deps.json
+D:\ISSLocator\ISS Locator\bin\Debug\net8.0\ISS Locator.runtimeconfig.json
+D:\ISSLocator\ISS Locator\bin\Debug\net8.0\ISS Locator.dll
+D:\ISSLocator\ISS Locator\bin\Debug\net8.0\ISS Locator.pdb
+D:\ISSLocator\ISS Locator\obj\Debug\net8.0\ISS Locator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISSLocator\ISS Locator\obj\Debug\net8.0\ISS Locator.AssemblyInfoInputs.cache
+D:\ISSLocator\ISS Locator\obj\Debug\net8.0\ISS Locator.AssemblyInfo.cs
+D:\ISSLocator\ISS Locator\obj\Debug\net8.0\ISS Locator.csproj.CoreCompileInputs.cache
+D:\ISSLocator\ISS Locator\obj\Debug\net8.0\ISS Locator.dll
+D:\ISSLocator\ISS Locator\obj\Debug\net8.0\refint\ISS Locator.dll
+D:\ISSLocator\ISS Locator\obj\Debug\net8.0\ISS Locator.pdb
+D:\ISSLocator\ISS Locator\obj\Debug\net8.0\ISS Locator.genruntimeconfig.cache
+D:\ISSLocator\ISS Locator\obj\Debug\net8.0\ref\ISS Locator.dll
+D:\ISSLocator\ISS Locator\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\ISSLocator\ISS Locator\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\ISSLocator\ISS Locator\bin\Debug\net8.0\System.Text.Json.dll
+D:\ISSLocator\ISS Locator\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\ISSLocator\ISS Locator\obj\Debug\net8.0\ISS Locator.csproj.AssemblyReference.cache
+D:\ISSLocator\ISS Locator\obj\Debug\net8.0\ISS Locator.csproj.CopyComplete
+D:\ISSLocator\ISS Locator\bin\Debug\net8.0\System.Net.Http.Json.dll
