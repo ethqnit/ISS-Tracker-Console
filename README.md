@@ -15,6 +15,10 @@ No external libraries · Pure C# 12 · Updates every 2 seconds · Looks insane i
   <i>Real-time ISS tracking with continent labels, lat/lon grid, and sparkling marker</i>
 </div>
 
+<div align="center">
+  <img src="https://github.com/ethqnit/Iron-Dome/blob/main/Iron%20Dome%20(Complete)/Screenshot%202025-12-02%20174719.png?raw=true" width="100%" alt="Launching a counter-missile"/>
+</div>
+
 <br>
 
 ## Features
