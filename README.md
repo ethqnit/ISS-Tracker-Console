@@ -16,7 +16,7 @@ No external libraries · Pure C# 12 · Updates every 2 seconds · Looks insane i
 </div>
 
 <div align="center">
-  <img src="https://github.com/ethqnit/Iron-Dome/blob/main/Iron%20Dome%20(Complete)/Screenshot%202025-12-02%20174719.png?raw=true" width="100%" alt="Launching a counter-missile"/>
+  <img src="https://github.com/ethqnit/ISS-Tracker-Console/blob/main/Screenshot%202025-12-02%20205434.png?raw=true" width="100%" alt="Launching a counter-missile"/>
 </div>
 
 <br>
